@@ -5,8 +5,9 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 	 <div class="navbar-nav">
       <a class="nav-item nav-link active" href="index.php">Accueil <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link" href="games.php">Gestion des jeux</a>
       <a class="nav-item nav-link" href="players.php">Gestion des joueurs</a>
+	  <a class="nav-item nav-link" href="add_games.php">Gestion des jeux</a>
+	  <a class="nav-item nav-link" href="select_games.php">Sélection de jeux</a>
       <a class="nav-item nav-link" href="#">Classement</a>
 	  <a class="nav-item nav-link  disabled" href="register.php">Inscription</a>
 	  <a class="nav-item nav-link" href="logout.php">Déconnexion</a>
